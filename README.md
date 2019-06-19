@@ -102,3 +102,4 @@ Code on the master branch in this repository is intended to be compatible with m
 All new development should be done on the master branch.
 
 To have versions compatible with released versions of LLVM and Clang, corresponding branches are created in this repository. For example, to build translator with LLVM 7.0 ([release_70](https://github.com/llvm-mirror/llvm/tree/release_70)) one should use [llvm_release_70](https://github.com/KhronosGroup/SPIRV-LLVM-Translator/tree/llvm_release_70) branch.
+a
